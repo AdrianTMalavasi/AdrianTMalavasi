@@ -1,6 +1,6 @@
 # Olá, sou Adrian T. Malavasi!
 
-🌱 **Idade:** 22 anos <br> 
+🌱 **Idade:** 23 anos <br> 
 ⚙️ **Desenvolvedor:** Especializado em HTML, CSS, JavaScript, TypeScript, PHP e SQL. <br> 
 🛠️ **Ferramentas e Tecnologias:** Experiente em VSCode, Trello, Figma, Git e GitHub. <br> 
 📂 **Frameworks:** Proficiente em Bootstrap, Node.js, React, aplicando boas práticas de desenvolvimento. <br> 
