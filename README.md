@@ -1,13 +1,21 @@
 # 🧑‍💻 Adrian TM
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Full Stack`**
 
-Sou natural do Espírito Santo, tenho 23 anos e sou apaixonado por tecnologia. Atualmente, aprofundo meus conhecimentos na graduação em **Sistemas para Internet no IFES**.
+Sou natural do Espírito Santo, tenho 23 anos e sou apaixonado por tecnologia. Atualmente atuo como Desenvolvedor Full Stack, trabalhando com automação de processos, integrações de sistemas e desenvolvimento de aplicações corporativas.
 
-* 🔭 **Foco:** Desenvolvimento Web Full Stack (soluções modernas e escaláveis).
-* 📚 **Estudando:** Arquitetura de Software, Clean Code, SOLID e MVC.
-* 💼 **Abordagem:** Metodologias ágeis e foco em entregas de alto nível.
-* 🚀 **Objetivo:** Evolução contínua e projetos de impacto real.
+Tenho experiência com desenvolvimento web utilizando tecnologias modernas e também venho me especializando no ecossistema TOTVS, atuando com ADVPL, TLPP e PO-UI, framework criado para as novas interfaces modernas em TypeScript e Angular no Protheus.
+
+🎓 Formando em Sistemas para Internet no IFES – Campus Santa Teresa.
+
+---
+
+* 🚀 **Atuação:** Automação de processos, integrações e aplicações corporativas.
+* 💻 **Tecnologias:** JavaScript, TypeScript, Node.js, React, Angular, PHP, Python e SQL.
+* 🏢 **TOTVS:** ADVPL, TLPP e desenvolvimento com PO-UI.
+* 📚 **Evolução contínua:** Sempre buscando aprimorar conhecimentos e acompanhar novas tecnologias.
+* ⚡ **Objetivo:** Desenvolver soluções modernas, eficientes e com impacto real.
+
 <br><br>
 <p align="left">
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adriantm.atm@gmail.com" target="_blank">
@@ -29,7 +37,6 @@ Sou natural do Espírito Santo, tenho 23 anos e sou apaixonado por tecnologia. A
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
 <img 
 align="left" 
 alt="HTML"
@@ -72,6 +79,22 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-origi
 />
 <img 
 align="left" 
+alt="Angular"
+title="Angular" 
+width="30px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
+/>
+<img 
+align="left" 
+alt="Node.js"
+title="Node.js" 
+width="30px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+align="left" 
 alt="Next.js" 
 title="Next.js"
 width="30px" 
@@ -94,15 +117,6 @@ width="30px"
 style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-
-<img 
-align="left" 
-alt="Git" 
-title="Git"
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
 <img 
 align="left" 
 alt="Python" 
@@ -113,11 +127,27 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 />
 <img 
 align="left" 
-alt="MYSQL" 
-title="MYSQL"
+alt="MySQL" 
+title="MySQL"
 width="30px" 
 style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+<img 
+align="left" 
+alt="Git" 
+title="Git"
+width="30px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+align="left" 
+alt="GitHub" 
+title="GitHub"
+width="30px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 <img 
 align="left" 
@@ -127,9 +157,34 @@ width="30px"
 style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
 />
-<br/>
-<br/>
+<img 
+align="left" 
+alt="Docker" 
+title="Docker"
+width="30px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+/>
+<img 
+align="left" 
+alt="Linux" 
+title="Linux"
+width="30px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>
+<img 
+align="left" 
+alt="Figma" 
+title="Figma"
+width="30px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+/>
 
+
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
@@ -147,7 +202,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-o
   alt="Top Langs" 
   height="200" 
   style="padding-right: 10px;" 
-  src="https://github-readme-stats2025.vercel.app/api/top-langs/?username=AdrianTMalavasi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  src="https://github-readme-stats2025.vercel.app/api/top-langs/?username=AdrianTMalavasi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
 />
 
 </p>
